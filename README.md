@@ -1,27 +1,21 @@
 # O projektu
 Aplikace, která sleduje vesmírné lodě ve vzdálené budoucnosti (v roce 3019). 
 
-Více informací naleznete
-[zde](https://gitlab.fel.cvut.cz/kachmann/ts1_sp/-/wikis/Popis-projektu)
+- Více informací naleznete [zde](https://github.com/AnnaKachmasheva/TS1_SP_Spaceships/wiki/Popis-projektu). 
 
+- [Zde](https://github.com/AnnaKachmasheva/TS1_SP_Spaceships/wiki/Prvn%C3%AD-spu%C5%A1t%C4%9Bn%C3%AD-projektu) je popsáno, jak projekt spustit poprvé.
 
 # Testování aplikací
 
+## [Testovací strategie](https://github.com/AnnaKachmasheva/TS1_SP_Spaceships/wiki/Testovac%C3%AD-strategie)
 
-## Testovací strategie
+## Testovací scénáře
 
+### [Testy vstupů](https://github.com/AnnaKachmasheva/TS1_SP_Spaceships/wiki/Testy-vstup%C5%AF)
 
-## [Testovací scénáře](https://gitlab.fel.cvut.cz/kachmann/ts1_sp/-/wikis/Testovac%C3%AD-sc%C3%A9n%C3%A1%C5%99e)
-
-
-### [Testy vstupů](https://gitlab.fel.cvut.cz/kachmann/ts1_sp/-/wikis/Testy-vstup%C5%AF)
-
-
-### [Testy průchodů](https://gitlab.fel.cvut.cz/kachmann/ts1_sp/-/wikis/Testy-pr%C5%AFchod%C5%AF) 
-
+### [Testy průchodů](https://github.com/AnnaKachmasheva/TS1_SP_Spaceships/wiki/Testy-pr%C5%AFchod%C5%AF) 
 
 ### [Detailní testovací scénáře]() 
-
 
 # Kontakty
 1. Lucie Baronová

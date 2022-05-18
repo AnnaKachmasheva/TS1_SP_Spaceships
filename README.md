@@ -19,6 +19,6 @@ Aplikace, která sleduje vesmírné lodě ve vzdálené budoucnosti (v roce 3019
 
 # Kontakty
 1. Lucie Baronová
-   - <!-- - todo -->
+   - baronova.luc@gmail.com
 2. Anna Kachmasheva
    - annakachmasheva@gmail.com
